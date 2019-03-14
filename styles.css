@@ -1,0 +1,38 @@
+#title{
+    color:red;
+    font-family: Monoton;
+}
+
+#textBox{
+    background: yellow;
+    width: 400px;
+    
+}
+
+#description{
+    color:yellow;
+}
+
+body{
+    /* background-color: black; */
+    background: url(./images/pokemon-logo.png);
+    background-repeat: no-repeat;
+    
+}
+
+#container{
+    color:yellow;
+    background-color: blue;
+    margin: 20%;
+    
+}
+
+#center{
+    text-align: center;
+}
+
+#button {
+    background: red;
+    cursor:crosshair;
+    border-radius: 50px;
+}
